@@ -8,5 +8,5 @@ Register functionality is working as per the requirement given
 
 In Seller FLow -
 
-Seller Can Create and Vies the property that he has listed.
+Seller Can Create and View the property that he has listed.
 
