@@ -1,0 +1,117 @@
+/* Login Register */
+
+.Login{
+  display:flex;
+  justify-content:center;
+  text-align:center;
+  flex-direction:column;
+}
+
+.logintop{
+  margin-top:100px;
+}
+
+.loginMiddle{
+  width:60%;
+  margin:0 auto;
+}
+
+.loginBottom{
+  display:flex;
+  justify-content:center;
+  text-align:center;
+  flex-direction:column;
+}
+.loginBottom div{
+width:60%;
+margin:0 auto;
+
+}
+
+.loginBottom div btn{
+  width:100%;
+}
+
+.or-divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px 0;
+}
+
+.or-divider .line {
+  flex-grow: 1;
+  height: 1px;
+  background-color: #6c757d;
+  margin: 0 10px;
+}
+
+.or-divider .text {
+  font-size: 1.2em;
+  color: #6c757d; 
+}
+
+/* Login End */
+/* Register Start */
+.Register{
+  display:flex;
+  justify-content:center;
+  text-align:center;
+  flex-direction:column;
+  background-color:#bbe4e9;
+}
+
+.registerTop{
+  margin-top:100px;
+}
+
+.registerMiddle{
+  width:60%;
+  margin:0 auto;
+}
+
+.registerBottom{
+  display:flex;
+  justify-content:center;
+  text-align:center;
+  flex-direction:column;
+}
+
+.registerBottom div{
+  width:60%;
+  margin:0 auto;
+  
+  }
+  
+  .registerBottom div btn{
+    width:100%;
+  }
+/* Register End */
+/* Profile start */
+.Profile{
+  display:flex;
+  justify-content:center;
+  text-align:center;
+  flex-direction:column;
+}
+
+.profileMiddl{
+  display:flex;
+  justify-content:center;
+  text-align:center;
+  flex-direction:column;
+}
+
+
+/* Profile End */
+
+.profileBottom{
+  display:flex;
+  justify-content:center;
+  text-align:center;
+  flex-direction:column;
+}
+
+..profileBottom div{
+  mergin-top:10px;
+}
